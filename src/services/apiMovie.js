@@ -6,7 +6,7 @@ const apiMovie = axios.create({
         language: "pt-BR"
     },
     headers: {
-        Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5MjY3ZWEyOWUxYWJiMDA3NmRlZjYxMzQ2MTVhMWE2OCIsIm5iZiI6MTcyNjM1NTc0Ny43MTA2MjgsInN1YiI6IjY2ZDBmNjkzZjI4ZGJlYjNlNWE3Y2ZiOCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.UACx4oohYzrcxNi4vSKP3wWOq_k7uBXrJcjPWjZlnnc'}
+        Authorization: 'Bearer '}
 })
 
 export default apiMovie
