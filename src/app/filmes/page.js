@@ -35,7 +35,6 @@ export default function Page() {
                                 <Link className="btn btn-dark" href={`/filmes/${filme.id}`} passHref>
                                     Detalhes
                                 </Link>
-
                             </Card.Body>
                         </Card>
                     </Col>
